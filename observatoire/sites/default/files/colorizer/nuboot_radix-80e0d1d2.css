@@ -1,0 +1,262 @@
+body,
+body.overlay {
+  background-color: #FFFFFF;
+  color: #3B3B3B;
+}
+
+.site-name,
+.site-slogan {
+  color: #3B3B3B;
+}
+h1,
+h2,
+h3,
+h4 {
+  color: #3B3B3B;
+}
+
+.front .panel-top h1.pane-title,
+.front .panel-top h2.pane-title,
+.front .panel-top h3.pane-title,
+.front .panel-top h4.pane-title {
+  color: #FFFFFF;
+}
+
+.pane-dkan-sitewide-dkan-demo-front .pane-content,
+.tint {
+  background-color: rgba(13 , 82 , 160,0.45);
+}
+
+.form-actions {
+  background-color: #FFFFFF;
+}
+
+a {
+  color: #0A77BD;
+}
+a:hover,
+a:focus {
+  color: #002245;
+}
+a:active {
+  color: #0d52a0;
+}
+
+div.vertical-tabs {
+  border-color: #CDCDCD;
+}
+div.vertical-tabs ul.vertical-tabs-list li {
+  border-color: #FFFFFF #CDCDCD #FFFFFF #FFFFFF;
+}
+div.vertical-tabs ul.vertical-tabs-list li.selected {
+  border-color: #CDCDCD #FFFFFF #CDCDCD #CDCDCD;
+}
+div.vertical-tabs ul.vertical-tabs-list li a:hover {
+  background: #26c281;
+  color: #ffffff;
+}
+
+#block-dkan-sitewide-dkan-sitewide-user-menu .links a:hover,
+#block-dkan-sitewide-dkan-sitewide-user-menu .links a:focus {
+  background-color: #26c281;
+  color: #fff;
+}
+
+.tabs--primary.nav-pills li a,
+.tabs--primary li a {
+  border: 1px solid #CDCDCD;
+  background: #FFFFFF;
+  color: #0d52a0;
+}
+
+.tabs--primary.nav-pills li a:hover,
+.tabs--primary li a:hover {
+  border: 1px solid #26c281;
+  background: #26c281;
+  color: #ffffff;
+}
+
+.pagination > .active > a,
+.pagination > .active > a:hover,
+.tabs--primary.nav-pills > li > a.active,
+.tabs--primary.nav-pills > li > a:focus,
+.tabs--primary.nav-pills li.active a:hover,
+.tabs--primary.nav-pills li.active a:focus,
+.tabs--primary li a.active,
+.tabs--primary li a:focus {
+  border: 1px solid #0d52a0;
+  background: #0d52a0;
+  color: #ffffff;
+}
+
+.pane-views-group-block-block .group-subscribe-message,
+#block-views-group-block-block .block-content .group-subscribe-message {
+  background-color: #0d52a0;
+}
+
+.node-blog .links a,
+.view-blog .node-teaser .links a,
+.view-group-block .views-field-nid a,
+.btn-primary,
+.links .btn,
+input.btn {
+  background-color: #0d52a0;
+  border: 1px solid #0d52a0;
+  color: #ffffff;
+}
+
+.node-blog .links a:hover,
+.view-blog .node-teaser .links a:hover,
+.view-group-block .views-field-nid a:hover,
+.btn-primary:hover,
+.links .btn:hover,
+input.btn:hover,
+input.btn-default:active:hover,
+input[type="submit"]:hover {
+  background: #26c281;
+  border: 1px solid #26c281;
+  color: #ffffff;
+}
+
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.links .btn:focus,
+.links .btn.focus,
+input.btn:active,
+input.btn:active:focus,
+input.btn:focus,
+input[type="submit"]:focus,
+input[type="submit"]:active {
+  background: #0d52a0;
+  border-color: #0d52a0;
+  color: #ffffff;
+}
+input.form-submit.features-refresh-button {
+  background: #0d52a0;
+}
+
+.form-tablefield input.tablefield-rebuild {
+  background-color: #0d52a0 !important;
+  border-color: #0d52a0;
+}
+.form-tablefield input.tablefield-rebuild:hover,
+.form-tablefield input.tablefield-rebuild:focus,
+.form-tablefield input.tablefield-rebuild.active {
+  background-color: #26c281 !important;
+  border-color: #26c281;
+}
+
+.region-sidebar-first .block-facetapi ul li.leaf a:hover,
+.block-facetapi ul li.leaf a:hover {
+  color: #0d52a0;
+}
+
+a.embed-link {
+  background: #0d52a0;
+}
+a.embed-link:hover,
+a.embed-link:focus,
+a.embed-link:active {
+  background: #26c281;
+}
+
+.autocomplete-deluxe-container,
+div.autocomplete-deluxe-multiple,
+.chzn-container-multi .chzn-choices,
+.chzn-container-single .chzn-single,
+.form-control,
+.panel-default {
+  border-color: #CDCDCD;
+}
+
+.panel-default > .panel-heading {
+  color: #3B3B3B;
+  background-color: #CDCDCD;
+  border-color: #CDCDCD;
+}
+
+.panel-full-width .panel-top {
+  background: #26c281;
+}
+
+.panel-region-sidebar .radix-layouts-sidebar div[class*="pane-facetapi"] .pane-title,
+.panel-region-sidebar .radix-layouts-sidebar .pane-title.ctools-collapsible-handle {
+  background: #FFFFFF;
+}
+
+.panel-region-sidebar .radix-layouts-sidebar .pane-title,
+.panel-region-sidebar .radix-layouts-sidebar div[class*="pane-facetapi"] .facetapi-active {
+  background: #FFFFFF;
+  border-color: #FFFFFF !important;
+  color: #FFFFFF;
+}
+
+.horizontal-tabs ul.horizontal-tabs-list .selected strong {
+  color: #3B3B3B;
+}
+
+#url-edit-prefix {
+  background-color: #FFFFFF;
+  border-color: #CDCDCD;
+}
+#url-slug,
+#field-tags-wrapper .path-form .add-on {
+  background-color: #0d52a0;
+  border-color: #CDCDCD;
+  color: #FFFFFF;
+}
+
+ul.resource-list li .heading,
+ul.resource-list li .heading:hover {
+  color: #3B3B3B;
+}
+
+.node-dataset #data-and-resources ul.resource-list .btn-group button:nth-of-type(2) {
+  opacity: 1;
+  background-color: #0d52a0;
+  border-color: #0d52a0;
+}
+.node-dataset #data-and-resources ul.resource-list .btn-group button:nth-of-type(2):hover,
+.node-dataset #data-and-resources ul.resource-list .btn-group button:nth-of-type(2):focus {
+  opacity: 1;
+  background-color: #26c281;
+  border-color: #26c281;
+}
+.pagination > li > a {
+  color: #0d52a0;
+}
+.pagination > li > a:hover {
+  color: #0d52a0;
+}
+.pagination > .active > span {
+  background-color: #0d52a0;
+  border-color: #0d52a0;
+}
+.pagination > .active > span:hover {
+  background-color: #26c281;
+  border-color: #26c281;
+}
+
+.facetapi-terms a span,
+.icon-dkan {
+  color: #0d52a0;
+}
+
+.link-badge {
+  background-color: #0d52a0;
+  border-color: #0d52a0;
+}
+li.active .link-badge {
+  background-color: #fff;
+  color: #0d52a0;
+}
+
+.node-type-harvest-source .ctools-collapsible-container .ctools-collapsible-handle {
+  background-color: #0d52a0;
+}
+
+
+
+
+
